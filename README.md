@@ -59,9 +59,10 @@
 
 ## 🌐 Connect With Me
 
-- 📸 Instagram: https://instagram.com/letslearncoding2023
-- 🎥 YouTube: LetsLearnCoding
-- 💼 LinkedIn: (Add your link)
+- Instagram: https://instagram.com/letslearncoding2023
+- YouTube: https://www.youtube.com/@letslearncoding2023
+- LinkedIn: https://www.linkedin.com/in/vimlesh-kumar-v2i0m2l2e0s1h?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Facebook: https://www.facebook.com/share/1HPi46YV1N/
 
 ---
 
