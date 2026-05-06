@@ -1,55 +1,55 @@
 
-<h1 align="center">👋 Welcome to LetsLearnCoding</h1>
+<h1 align="center">Welcome to LetsLearnCoding</h1>
 
-<h3 align="center">🚀 Full Stack Developer | AI | Cloud | DevOps | Educator</h3>
+<h3 align="center">Full Stack Developer | AI | Cloud | DevOps | Educator</h3>
 
 ---
 
-## 🔥 About Me
-- 🎯 Founder of LetsLearnCoding
-- 💻 Full Stack Developer (MERN | Python | Java)
-- 🤖 AI/ML & Data Science Enthusiast
-- ☁️ Cloud | DevOps | Cybersecurity
+##  About Me
+- Founder of LetsLearnCoding
+- Full Stack Developer (MERN | Python | Java)
+- AI/ML & Data Science Enthusiast
+- Cloud | DevOps | Cybersecurity
 - 🇮🇳 Mission: Empowering India with Tech Skills
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+###  Languages
 - JavaScript | Python | Java | C | C++
 
-### 🌐 Frontend
+###  Frontend
 - HTML | CSS | React | Angular
 
-### ⚙️ Backend
+###  Backend
 - Node.js | Express | Django | Spring Boot
 
-### 🛢️ Database
+###  Database
 - MongoDB | MySQL | PostgreSQL
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 - Docker | Kubernetes | AWS | GitHub Actions
 
 ---
 
-## 📈 What I Do
-- 💡 Teach Coding (Beginner → Advanced)
-- 🏗️ Build Real-world Projects
-- 📊 Data Analytics & AI Solutions
-- 🌍 Freelancing & Startup Building
+##  What I Do
+-  Teach Coding (Beginner → Advanced)
+-  Build Real-world Projects
+-  Data Analytics & AI Solutions
+-  Freelancing & Startup Building
 
 ---
 
-## 🔥 Featured Projects
-- 🚀 Full Stack Web App
-- 🤖 AI Chatbot
-- 📊 Data Science Dashboard
-- ☁️ Cloud Deployment Project
+##  Featured Projects
+-  Full Stack Web App
+-  AI Chatbot
+-  Data Science Dashboard
+-  Cloud Deployment Project
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=letslearncoding2023&show_icons=true&theme=radical)
 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 - Instagram: https://instagram.com/letslearncoding2023
 - YouTube: https://www.youtube.com/@letslearncoding2023
@@ -67,10 +67,10 @@
 
 ---
 
-## 💬 Quote
+##  Quote
 
-> "Code. Learn. Build. Grow. Repeat." 🚀
+> "Code. Learn. Build. Grow. Repeat." 
 
 ---
 
-⭐ Don’t forget to follow and star repositories!
+ Don’t forget to follow and star repositories!
