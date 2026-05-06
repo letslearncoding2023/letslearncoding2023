@@ -3,16 +3,12 @@
 
 <h3 align="center">Full Stack Developer | AI | Cloud | DevOps | Educator</h3>
 
----
-
 ##  About Me
 - Founder of LetsLearnCoding
 - Full Stack Developer (MERN | Python | Java)
 - AI/ML & Data Science Enthusiast
 - Cloud | DevOps | Cybersecurity
 - 🇮🇳 Mission: Empowering India with Tech Skills
-
----
 
 ## Tech Stack
 
@@ -31,15 +27,11 @@
 ###  DevOps & Cloud
 - Docker | Kubernetes | AWS | GitHub Actions
 
----
-
 ##  What I Do
 -  Teach Coding (Beginner → Advanced)
 -  Build Real-world Projects
 -  Data Analytics & AI Solutions
 -  Freelancing & Startup Building
-
----
 
 ##  Featured Projects
 -  Full Stack Web App
@@ -47,15 +39,11 @@
 -  Data Science Dashboard
 -  Cloud Deployment Project
 
----
-
 ##  GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=letslearncoding2023&show_icons=true&theme=radical)
 
 ![Streak](https://streak-stats.demolab.com/?user=letslearncoding2023&theme=radical)
-
----
 
 ##  Connect With Me
 
@@ -65,12 +53,8 @@
 - Facebook: https://www.facebook.com/share/1HPi46YV1N/
 - Website: https://letslearncoding.in/
 
----
-
 ##  Quote
 
 > "Code. Learn. Build. Grow. Repeat." 
 
----
-
- Don’t forget to follow and star repositories!
+Don’t forget to follow and star repositories!
