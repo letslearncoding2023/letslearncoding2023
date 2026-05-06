@@ -40,10 +40,7 @@
 -  Cloud Deployment Project
 
 ##  GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=letslearncoding2023&show_icons=true&theme=radical)
-
-![Streak](https://streak-stats.demolab.com/?user=letslearncoding2023&theme=radical)
+- GitHub: https://github.com/letslearncoding2023
 
 ##  Connect With Me
 
